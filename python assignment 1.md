@@ -1,4 +1,4 @@
-
+```python
 retail_inventory = {
     "Electronics": {
         "Laptop": [55000, 30, "Dell"],
@@ -17,3 +17,4 @@ retail_inventory = {
         "Refrigerator": [30000, 8, "Samsung"]
     }
 }
+```
