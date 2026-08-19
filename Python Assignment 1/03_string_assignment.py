@@ -19,7 +19,9 @@ print("-" * 50)
 # Question 1: Reverse the string "Python Programming"
 print("Question 1: Reverse the string 'Python Programming'")
 # Your code here
-
+name = input()
+reverse_string = name[::-1]
+print(reverse_string)
 # Question 2: Check if "racecar" is a palindrome
 print("\nQuestion 2: Check if 'racecar' is a palindrome")
 # Your code here
